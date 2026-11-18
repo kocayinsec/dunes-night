@@ -1,0 +1,1 @@
+{ "name": "dunes-night", "version": "0.3.1", "description": "Behind every desktop session in a dark window: Dither Dunes Night, flat umber dunes under an ember sun that crosses the sky as the chat's context fills, with the context left written in the sand. The app's own colours with warm text tones; a light window stays plain.", "types": "./types/index.d.ts" }
